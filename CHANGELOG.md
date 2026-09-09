@@ -1,5 +1,11 @@
 # Changelog
 
+## v1.0.3
+
+- Replaced the blackout switch with an Enable/Disable button that waits for server confirmation.
+- Fixed missing blackout history entries and added automatic history refresh.
+- Fixed blackout flickering leaving lights off after disabling. Requires the updated FS-Blackout resource.
+
 ## v1.0.2
 
 - Improved weather transitions across automatic forecasts, commands, and weather patterns.
